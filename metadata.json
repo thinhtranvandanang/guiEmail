@@ -1,0 +1,6 @@
+{
+  "name": "MailSheet Studio",
+  "description": "Ứng dụng gửi email hàng loạt cá nhân hóa từ bảng tính Excel qua Gmail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
